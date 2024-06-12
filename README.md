@@ -70,11 +70,11 @@ const ZK = {
 ### <img src="https://media0.giphy.com/media/Jed3M6XdSRI9wSsiQF/giphy.webp?cid=790b7611323t77prv15j1mdmglwpp00uw31c7q7hq1z0rrts&rid=giphy.webp&ct=s" width="30px" height="30px">Github Statistics
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaruakiTouka&layout=compact&&theme=vue&hide=issues&line_height=30">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kkchaser&layout=compact&&theme=vue&hide=issues&line_height=30">
   &nbsp;&nbsp;
-<img src = "https://github-readme-stats.vercel.app/api?username=HaruakiTouka&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=24">
+<img src = "https://github-readme-stats.vercel.app/api?username=kkchaser&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=24">
 <!--
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=HaruakiTouka&theme=vue">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kkchaser&theme=vue">
 -->
 <br/>
 
@@ -105,7 +105,7 @@ const ZK = {
 <br/>
 <!-- 访客 -->
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=HaruakiTouka.NickletteShen" alt="visitor badge"/>&nbsp;&nbsp;<em><b>谢谢你来看我！</b> :)</em>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=kkchaser.NickletteShen" alt="visitor badge"/>&nbsp;&nbsp;<em><b>谢谢你来看我！</b> :)</em>
 </p>
 <br/><br/>
 <h3 align="center">THRIVING TO GET BIGGER, BETTER & STRONGER EVERYDAY</h3>

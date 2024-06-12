@@ -70,7 +70,7 @@ const ZK = {
 ### <img src="https://media0.giphy.com/media/Jed3M6XdSRI9wSsiQF/giphy.webp?cid=790b7611323t77prv15j1mdmglwpp00uw31c7q7hq1z0rrts&rid=giphy.webp&ct=s" width="30px" height="30px">Github Statistics
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kkchaser&layout=compact&&theme=vue&hide=issues&line_height=30">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaruakiTouka&layout=compact&&theme=vue&hide=issues&line_height=30">
   &nbsp;&nbsp;
 <img src = "https://github-readme-stats.vercel.app/api?username=kkchaser&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=24">
 <!--
